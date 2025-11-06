@@ -22,7 +22,7 @@ This is a static website, making it incredibly easy to view:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone  - kgabo23/Front-end-prototypes
     ```
 2.  **Navigate to the Directory:**
     ```bash
